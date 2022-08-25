@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="icon" transform="translate(-435 -1196)">
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="6.5" height="1" transform="translate(437.5 1199)" fill="#6c5ce7"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="6.5" height="1" transform="translate(437.5 1201)" fill="#6c5ce7"/>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="4.5" height="1" transform="translate(437.5 1203)" fill="#6c5ce7"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="4.5" height="1" transform="translate(437.5 1205)" fill="#6c5ce7"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="30" height="1" transform="translate(435 1225)" fill="#6c5ce7"/>
+    <path id="Path_3" data-name="Path 3" d="M593.243,355.277l-2-4a.5.5,0,0,0-.67-.224h0l-4,2a.5.5,0,0,0,.447.9l2.9-1.448-.791,2.257A26.682,26.682,0,0,1,566.254,372.5l.085,1a27.682,27.682,0,0,0,23.732-18.413l.807-2.306,1.471,2.943a.5.5,0,1,0,.895-.447Zm0,0" transform="translate(-129.297 845)" fill="#6c5ce7"/>
+    <path id="Path_4" data-name="Path 4" d="M570.325,390.89h-3.5a.5.5,0,0,0-.5.5v3a.5.5,0,0,0,.5.5h3.5a.5.5,0,0,0,.5-.5v-3a.5.5,0,0,0-.5-.5Zm-.5,3h-2.5v-2h2.5Zm0,0" transform="translate(-129.325 829.11)" fill="#6c5ce7"/>
+    <path id="Path_5" data-name="Path 5" d="M579.466,388.4h-3.5a.5.5,0,0,0-.5.5v4.5a.5.5,0,0,0,.5.5h3.5a.5.5,0,0,0,.5-.5v-4.5a.5.5,0,0,0-.5-.5Zm-.5,4.5h-2.5v-3.5h2.5Zm0,0" transform="translate(-132.966 830.103)" fill="#6c5ce7"/>
+    <path id="Path_6" data-name="Path 6" d="M588.607,384.242h-3.5a.5.5,0,0,0-.5.5v7a.5.5,0,0,0,.5.5h3.5a.5.5,0,0,0,.5-.5v-7a.5.5,0,0,0-.5-.5Zm-.5,7h-2.5v-6h2.5Zm0,0" transform="translate(-136.607 831.758)" fill="#6c5ce7"/>
+    <path id="Path_7" data-name="Path 7" d="M597.748,378.424h-3.5a.5.5,0,0,0-.5.5v10.5a.5.5,0,0,0,.5.5h3.5a.5.5,0,0,0,.5-.5v-10.5a.5.5,0,0,0-.5-.5Zm-.5,10.5h-2.5v-9.5h2.5Zm0,0" transform="translate(-140.248 834.076)" fill="#6c5ce7"/>
+    <path id="Path_8" data-name="Path 8" d="M606.89,366.79h-3.5a.5.5,0,0,0-.5.5v17.5a.5.5,0,0,0,.5.5h3.5a.5.5,0,0,0,.5-.5v-17.5a.5.5,0,0,0-.5-.5Zm-.5,17.5h-2.5v-16.5h2.5Zm0,0" transform="translate(-143.89 838.71)" fill="#6c5ce7"/>
+  </g>
+</svg>
